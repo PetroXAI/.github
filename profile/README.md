@@ -19,7 +19,7 @@
 
 ## About PetroXAI · 关于我们
 
-**PetroXAI** (**Petro**leum · e**X**plainable · **A**rtificial **I**ntelligence) is an explainable AI platform for petroleum engineering.
+**PetroXAI** (**PETRO**leum · e**X**plainable · **A**rtificial **I**ntelligence) is an explainable AI platform for petroleum engineering.
 
 We combine engineering physics and verifiable domain criteria with AI agents and generative models across five core areas: engineering simulation, research project management, oilfield production operations, well-logging quality control, and engineering standards retrieval. All platform applications share a single unified account at **[petroxai.com](https://petroxai.com)**.
 

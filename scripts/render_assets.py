@@ -141,7 +141,8 @@ def build_hero_html(theme: str, brand_dir: Path, font_css: str) -> str:
         wave1 = "rgba(43, 89, 224, 0.42)"
         wave2 = "rgba(0, 150, 214, 0.30)"
         wave3 = "rgba(166, 188, 225, 0.18)"
-        kicker_color = "#A6BCE1"
+        kicker_color = "rgba(166, 188, 225, 0.72)"
+        kicker_hi = "#F42434"
         h1_color = "#FFFFFF"
         zh_color = "#A7B7D9"
         meta_color = "#DCE7FF"
@@ -168,7 +169,8 @@ def build_hero_html(theme: str, brand_dir: Path, font_css: str) -> str:
         wave1 = "rgba(0, 47, 167, 0.16)"
         wave2 = "rgba(0, 150, 214, 0.14)"
         wave3 = "rgba(0, 47, 167, 0.08)"
-        kicker_color = "#4B5D82"
+        kicker_color = "#566785"
+        kicker_hi = "#E30613"
         h1_color = "#0A1330"
         zh_color = "#465572"
         meta_color = "#1B2B4B"
@@ -246,18 +248,25 @@ html, body {{
   align-items: center;
   gap: 12px;
   font-family: "Saira", sans-serif;
-  font-size: 12.5px;
-  font-weight: 500;
-  letter-spacing: 0.24em;
-  text-transform: uppercase;
+  font-size: 15.5px;
+  font-weight: 400;
+  letter-spacing: 0.08em;
   color: {kicker_color};
-  margin-bottom: 20px;
+  margin-bottom: 18px;
 }}
 .kicker-bar {{
   width: 24px;
   height: 2.5px;
   background: #E30613;
   flex-shrink: 0;
+}}
+.kicker-hi {{
+  color: {kicker_hi};
+  font-weight: 700;
+}}
+.kicker-sep {{
+  opacity: 0.48;
+  margin: 0 5px;
 }}
 .wordmark {{
   height: 44px;
@@ -438,7 +447,7 @@ html, body {{
       <div class="left">
         <div class="kicker">
           <span class="kicker-bar"></span>
-          <span>PETROLEUM · EXPLAINABLE · ARTIFICIAL INTELLIGENCE</span>
+          <span><span class="kicker-hi">PETRO</span>leum<span class="kicker-sep">·</span>e<span class="kicker-hi">X</span>plainable<span class="kicker-sep">·</span><span class="kicker-hi">A</span>rtificial <span class="kicker-hi">I</span>ntelligence</span>
         </div>
         <img class="wordmark" src="{wordmark_uri}" alt="PetroXAI" />
         <div class="headline">Explainable AI Platform for Petroleum Engineering</div>
