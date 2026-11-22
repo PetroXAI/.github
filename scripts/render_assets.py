@@ -438,11 +438,11 @@ html, body {{
       <div class="left">
         <div class="kicker">
           <span class="kicker-bar"></span>
-          <span>PETROLEUM × ARTIFICIAL INTELLIGENCE</span>
+          <span>PETROLEUM · EXPLAINABLE · ARTIFICIAL INTELLIGENCE</span>
         </div>
         <img class="wordmark" src="{wordmark_uri}" alt="PetroXAI" />
-        <div class="headline">Intelligent Platform for Oil &amp; Gas Engineering</div>
-        <div class="sub-zh">油气工程智能平台</div>
+        <div class="headline">Explainable AI Platform for Petroleum Engineering</div>
+        <div class="sub-zh">油气工程可解释智能平台</div>
         <div class="meta-row">
           <span class="meta-tag"><span class="meta-dot"></span>petroxai.com</span>
           <span class="meta-tag"><span class="meta-dot red"></span>5 Live Products</span>

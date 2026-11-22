@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PetroXAI/.github/main/profile/assets/banner-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PetroXAI/.github/main/profile/assets/banner-light.png">
-      <img alt="PetroXAI — Intelligent Platform for Oil & Gas Engineering" src="https://raw.githubusercontent.com/PetroXAI/.github/main/profile/assets/banner-dark.png" width="100%">
+      <img alt="PetroXAI — Explainable AI platform for petroleum engineering" src="https://raw.githubusercontent.com/PetroXAI/.github/main/profile/assets/banner-dark.png" width="100%">
     </picture>
   </a>
 </p>
@@ -19,11 +19,11 @@
 
 ## About PetroXAI · 关于我们
 
-**PetroXAI** (**Petro**leum **×** **AI**) is an intelligent platform for oil &amp; gas engineering.
+**PetroXAI** (**Petro**leum · e**X**plainable · **A**rtificial **I**ntelligence) is an explainable AI platform for petroleum engineering.
 
 We combine engineering physics and verifiable domain criteria with AI agents and generative models across five core areas: engineering simulation, research project management, oilfield production operations, well-logging quality control, and engineering standards retrieval. All platform applications share a single unified account at **[petroxai.com](https://petroxai.com)**.
 
-> 油气工程智能平台：结合工程机理、真实数据与人工智能，覆盖工程仿真、科研项目管理、油田生产管理、测井数据治理与工程标准检索。
+> 油气工程可解释智能平台：将经典物理与工程判据同可解释人工智能相结合，覆盖工程仿真、科研项目管理、油田生产管理、测井数据治理与工程标准检索。
 
 ---
 
